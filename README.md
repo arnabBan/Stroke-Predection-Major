@@ -53,9 +53,9 @@ To run the project in a local machine, just keep either data set and ipynb file 
 2. For getting more better and proper vizualization chart then you can open editor in chrome browser.
 
 ## Bug / Feature Request
-If you find a bug (the notebook couldn't handle the query and / or gave undesired results), kindly open an issue [here](https://github.com/arnabBan/Stroke-Predection-Major/issues/new) by including your search query and the expected result.
+If you find a bug (the notebook couldn't handle the query and / or gave undesired results), kindly open an issue [here](https://github.com/arnabBan/Stroke-Prediction-Major/issues/new) by including your search query and the expected result.
 
-If you'd like to request a new function, feel free to do so by opening an issue [here](https://github.com/arnabBan/Stroke-Predection-Major/issues/new). Please include sample queries and their corresponding results.
+If you'd like to request a new function, feel free to do so by opening an issue [here](https://github.com/arnabBan/Stroke-Prediction-Major/issues/new). Please include sample queries and their corresponding results.
 
 ## Technologies Used
 
