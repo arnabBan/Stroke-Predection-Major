@@ -1,4 +1,4 @@
-# Stroke-Predection-Major: 
+# Stroke-Prediction-Major: 
 
 ## Table of Content
   * [Overview](#overview)
