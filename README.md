@@ -15,7 +15,7 @@
 
 
 ## Overview
-This is a simple stroke prediction project using python. This dataset is used to predict whether a patient is likely to get stroke based on the input parameters like gender, age, various diseases, and smoking status. Each row in the data provides relavant information about the patient. I have done exploratory data analysis using pandas profiling and for visualizing I have used lux, seaborn etc. I have used different machine learning models for finding higher accuracy to predict on stroke.
+This is a simple stroke prediction project using python. According to the World Health Organization (WHO) stroke is the 2nd leading cause of death globally, responsible for approximately 11% of total deaths. This dataset is used to predict whether a patient is likely to get stroke based on the input parameters like gender, age, various diseases, and smoking status. Each row in the data provides relavant information about the patient.
 
 ## Motivation
 What could be a perfect way to utilize unfortunate lockdown period? Like most of you, I spent my time in cooking, Netflix, youtube, coding and reading story book. I was facing problem to get a job in that situation. That time I have joined in data analytics course for learning more and getting relief from this situation. In this training I had to do a major project. That's why I have chosen this project to know more about stroke and predicted on it.
