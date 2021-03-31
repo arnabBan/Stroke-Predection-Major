@@ -24,7 +24,7 @@ What could be a perfect way to utilize unfortunate lockdown period? Like most of
 This project is divided into four part:
 1. I have taken datasets from internet and did some exploratory data analysis, statistical analysis using pandas profiling and used lux, matplotlib, seaborn for more infomative and attractive visualization of data.
 2. There was a problem in my dataset that is the data is not balanced. I did not know about it. After applying machine learning models I saw my models have given biased prediction and after rechecking the exploratory data analysis I found the problem. That's why I have used here random over sampler for making it balanced without loosing any data.
-3. Applied different types of encoders for converting categorical feature to numerical feature. After that applied standardscaler for grouping the data which helps to get best output through machine learning models.
+3. Applied different types of encoders for converting categorical feature to numerical feature. After that applied standard scaler for grouping the data which helps to get best output through machine learning models.
 4. Applying four machine learning models 1)Logistic Regression, 2)K-NeighborsClassifier, 3)Random Forest Classfier, 4)DecisionTreeClassifier.
     - I got higher accuracy, precision value, recall value, f1-score value in K-NeighborsClassifier then Random Forest Classfier and so on. K-NeighborsClassifier simple       and easy to implement that's why I have chosen K-NeighborsClassifier for prediction.
     - Used confusion matrix for checking there is any error is present or not and the data is giving biased output or not.
